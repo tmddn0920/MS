@@ -1,0 +1,7 @@
+config/openai_config.json
+openai_config.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class

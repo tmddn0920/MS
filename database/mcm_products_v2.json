@@ -1,0 +1,1392 @@
+{
+  "dataset_name": "MCM KR Official Product RAG Seed Set",
+  "version": "2.0",
+  "collected_date": "2026-08-17",
+  "source_policy": "MCM Korea official product pages only. Dynamic price/stock data excluded.",
+  "product_count": 20,
+  "products": [
+    {
+      "product_id": "BAG_001",
+      "product_name": "Tracy 비세토스 크로스바디",
+      "category": {
+        "main": "bag",
+        "sub": "crossbody_bag"
+      },
+      "style_number": "MWRAAME01CO001",
+      "color": "cognac",
+      "size": "M",
+      "description": {
+        "summary": "비세토스 코티드 캔버스와 나파 가죽 트림의 Tracy 크로스바디.",
+        "official_description_paraphrase": "MCM의 헤리티지와 현대적인 실용성을 함께 보여주는 Tracy 크로스바디입니다. 가벼운 비세토스 코티드 캔버스와 나파 가죽 트림을 조합했고, 탈부착 가능한 스트랩과 라우렐 잠금 장치를 통해 활동적인 사용성과 클래식한 분위기를 함께 구현합니다.",
+        "key_concepts": [
+          "MCM heritage",
+          "Visetos",
+          "classic elegance",
+          "convertible crossbody",
+          "Laurel lock"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos coated canvas"
+        },
+        {
+          "part": "trim",
+          "material": "nappa leather"
+        },
+        {
+          "part": "hardware",
+          "material": "24K gold-plated hardware"
+        }
+      ],
+      "features": [
+        "로렐 락 클로저",
+        "내부 오픈/지퍼 포켓",
+        "카드 슬롯 4개",
+        "외부 후면 슬립 포켓"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%AC%EC%84%B1/%ED%95%B8%EB%93%9C%EB%B0%B1/%EC%88%84%EB%8D%94%EB%B0%B1-%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%B1/tracy-%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%94%EB%94%94/MWRAAME01CO001.html"
+      },
+      "dimensions": {
+        "text": "약 6 x 22 x 16 cm",
+        "strap": "98-114 cm"
+      }
+    },
+    {
+      "product_id": "BAG_002",
+      "product_name": "Stark 사이드 스터드 비세토스 백팩",
+      "category": {
+        "main": "bag",
+        "sub": "backpack"
+      },
+      "style_number": "MMKEAVE15IG001",
+      "color": "beige",
+      "size": "S",
+      "description": {
+        "summary": "피라미드 스터드와 천연 나파 가죽 트림이 특징인 비세토스 모노그램 캔버스 백팩.",
+        "official_description_paraphrase": "글로벌 노마드의 자유로운 라이프스타일을 반영한 대표 백팩입니다. 비세토스 캔버스와 천연 나파 가죽으로 제작되며, 기기와 서류, 각종 소지품을 정리하기 좋은 내부 구조와 반짝이는 피라미드 스터드 장식이 특징입니다.",
+        "key_concepts": [
+          "global nomad",
+          "Stark icon",
+          "Visetos",
+          "nappa leather",
+          "pyramid studs"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "trim",
+          "material": "natural nappa leather"
+        },
+        {
+          "part": "hardware",
+          "material": "plated brass"
+        },
+        {
+          "part": "lining",
+          "material": "faux nappa"
+        }
+      ],
+      "features": [
+        "조절 가능한 어깨 스트랩",
+        "전면 지퍼 수납공간",
+        "사이드 포켓",
+        "양방향 지퍼",
+        "태블릿 슬리브"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%82%A8%EC%84%B1/%EA%B0%80%EB%B0%A9/%EB%B0%B1%ED%8C%A9/stark-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%84%B0%EB%93%9C-%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%EB%B0%B1%ED%8C%A9/MMKEAVE15IG001.html"
+      },
+      "dimensions": {
+        "text": "약 13 x 26 x 33 cm",
+        "strap": "74-90 cm",
+        "handle_drop": "7 cm"
+      }
+    },
+    {
+      "product_id": "BAG_003",
+      "product_name": "Aren 비세토스 스쿨 토트",
+      "category": {
+        "main": "bag",
+        "sub": "tote_bag"
+      },
+      "style_number": "MWTFATA01CO001",
+      "color": "cognac",
+      "size": "S",
+      "description": {
+        "summary": "천연 가죽 트림이 더해진 비세토스 모노그램 캔버스 스몰 토트.",
+        "official_description_paraphrase": "학생부터 직장인까지 폭넓게 활용할 수 있도록 설계된 스몰 토트입니다. 시그니처 비세토스 모노그램과 24K 골드 도금 로고 플레이트가 클래식한 인상을 주며, 문서와 전자기기, 데일리 아이템을 수납하기 좋은 실용적인 내부 공간을 갖춥니다.",
+        "key_concepts": [
+          "school-to-work",
+          "Visetos",
+          "24K gold-plated logo plate",
+          "daily utility"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "trim",
+          "material": "natural leather"
+        },
+        {
+          "part": "hardware",
+          "material": "24K gold-plated brass"
+        },
+        {
+          "part": "lining",
+          "material": "cotton"
+        }
+      ],
+      "features": [
+        "탑핸들",
+        "외부 포켓",
+        "로고 브라스 플레이트",
+        "내부 포켓"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%AC%EC%84%B1/%ED%95%B8%EB%93%9C%EB%B0%B1/%EC%87%BC%ED%8D%BC-%ED%86%A0%ED%8A%B8%EB%B0%B1/aren-%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%EC%8A%A4%EC%BF%A8-%ED%86%A0%ED%8A%B8/MWTFATA01CO001.html"
+      },
+      "dimensions": {
+        "text": "약 13 x 31 x 22 cm",
+        "handle_length": "25.5 cm"
+      }
+    },
+    {
+      "product_id": "BAG_004",
+      "product_name": "Aren ECONYL®과 가죽 드로우스트링 백팩",
+      "category": {
+        "main": "bag",
+        "sub": "backpack"
+      },
+      "style_number": "MWKFATA04BK001",
+      "color": "black",
+      "size": "S",
+      "description": {
+        "summary": "ECONYL® 재생 나일론과 비세토스 프린트 그레인 레더 트림의 드로우스트링 백팩.",
+        "official_description_paraphrase": "MCM의 클래식한 드로우스트링 버킷 디자인을 백팩 형태로 재해석한 제품입니다. ECONYL® 재생 나일론과 비세토스 모노그램 프린트 가죽을 조합하고, 바이에른 다이아몬드에서 영감을 받은 버클 하드웨어와 다양한 수납공간을 더했습니다.",
+        "key_concepts": [
+          "drawstring backpack",
+          "ECONYL",
+          "Visetos leather trim",
+          "Bavarian diamond",
+          "sustainability"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "ECONYL® recycled nylon"
+        },
+        {
+          "part": "trim",
+          "material": "grained leather with Visetos print"
+        },
+        {
+          "part": "hardware",
+          "material": "silver-tone cobalt metal"
+        },
+        {
+          "part": "lining",
+          "material": "fabric"
+        }
+      ],
+      "features": [
+        "가죽 숄더 스트랩",
+        "가죽 탑핸들",
+        "마그네틱 스냅/드로우스트링",
+        "앞면 플랩 포켓",
+        "내부 슬립 포켓"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%AC%EC%84%B1/%ED%95%B8%EB%93%9C%EB%B0%B1/%EB%B0%B1%ED%8C%A9-%EB%B2%A8%ED%8A%B8%EB%B0%B1/aren-econyl%C2%AE%EA%B3%BC-%EA%B0%80%EC%A3%BD-%EB%93%9C%EB%A1%9C%EC%9A%B0%EC%8A%A4%ED%8A%B8%EB%A7%81-%EB%B0%B1%ED%8C%A9/MWKFATA04BK001.html"
+      },
+      "dimensions": {
+        "text": "약 11 x 23 x 25 cm",
+        "strap": "76-83 cm",
+        "handle_drop": "8.5 cm"
+      },
+      "sustainability": "ECONYL® 재생 나일론"
+    },
+    {
+      "product_id": "WALLET_001",
+      "product_name": "비세토스 카드 지갑",
+      "category": {
+        "main": "wallet_small_leather_goods",
+        "sub": "snap_wallet"
+      },
+      "style_number": "MXSFATA02BK001",
+      "color": "black",
+      "size": "free size",
+      "description": {
+        "summary": "스냅 여밈과 천연 가죽 트림이 더해진 비세토스 모노그램 캔버스 지갑.",
+        "official_description_paraphrase": "비세토스 모노그램 캔버스 바디와 천연 가죽 내부를 조합한 스냅 지갑입니다. 카드 슬롯과 지폐 수납공간, 작은 소지품을 위한 지퍼 포켓을 갖춰 현금과 신분증, 동전 등을 슬림하게 정리할 수 있도록 구성되었습니다.",
+        "key_concepts": [
+          "Visetos",
+          "snap wallet",
+          "card organization",
+          "zip coin pocket"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "trim",
+          "material": "natural leather"
+        },
+        {
+          "part": "hardware",
+          "material": "silver-tone cobalt metal"
+        },
+        {
+          "part": "lining",
+          "material": "fabric"
+        }
+      ],
+      "features": [
+        "스냅 클로저",
+        "카드 슬롯",
+        "지폐 수납",
+        "내부 포켓"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%82%A8%EC%84%B1/%EC%A7%80%EA%B0%91-%EB%A0%88%EB%8D%94%EC%86%8C%ED%92%88/%EB%B0%98%EC%A7%80%EA%B0%91-%EB%A8%B8%EB%8B%88%ED%81%B4%EB%A6%BD/%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%EC%B9%B4%EB%93%9C-%EC%A7%80%EA%B0%91/MXSFATA02BK001.html"
+      },
+      "dimensions": {
+        "text": "약 2 x 12 x 10 cm"
+      }
+    },
+    {
+      "product_id": "WALLET_002",
+      "product_name": "Tracy 비세토스 체인 카드 지갑",
+      "category": {
+        "main": "wallet_small_leather_goods",
+        "sub": "chain_card_wallet"
+      },
+      "style_number": "MYAESXT02CO001",
+      "color": "cognac",
+      "size": "mini",
+      "description": {
+        "summary": "탈부착 체인 스트랩과 라우렐 락 스냅 클로저가 있는 모노그램 카드 지갑.",
+        "official_description_paraphrase": "MCM의 시대를 초월한 디자인과 수공예 감성을 작은 체인 지갑 형태로 구현한 제품입니다. 시그니처 라우렐 스냅 잠금 장치와 천연 나파 가죽 내부를 갖추고 있으며, 카드와 동전, 작은 필수품을 휴대하기 좋은 구조입니다.",
+        "key_concepts": [
+          "Tracy",
+          "chain wallet",
+          "Laurel lock",
+          "nappa leather interior",
+          "compact utility"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "trim/interior",
+          "material": "natural nappa leather"
+        },
+        {
+          "part": "hardware",
+          "material": "24K-plated metal"
+        },
+        {
+          "part": "lining",
+          "material": "fabric"
+        }
+      ],
+      "features": [
+        "탈부착 체인",
+        "라우렐 락 스냅",
+        "내부 지퍼 포켓",
+        "카드 수납"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%AC%EC%84%B1/%EC%A7%80%EA%B0%91-%EB%A0%88%EB%8D%94%EC%86%8C%ED%92%88/%EC%B9%B4%EB%93%9C%EC%A7%80%EA%B0%91-%EB%A0%88%EB%8D%94%EC%86%8C%ED%92%88/tracy-%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%EC%B2%B4%EC%9D%B8-%EC%B9%B4%EB%93%9C-%EC%A7%80%EA%B0%91/MYAESXT02CO001.html"
+      },
+      "dimensions": {
+        "text": "약 3 x 12 x 10 cm",
+        "strap_drop": "60 cm"
+      }
+    },
+    {
+      "product_id": "WALLET_003",
+      "product_name": "엠보스드 모노그램 레더 랜야드 ID 카드 지갑",
+      "category": {
+        "main": "wallet_small_leather_goods",
+        "sub": "lanyard_id_card_holder"
+      },
+      "style_number": "MXZGATA02BK001",
+      "color": "black",
+      "size": "free size",
+      "description": {
+        "summary": "엠보싱 비세토스 모노그램과 ID 창, 가죽 스트랩이 더해진 풀그레인 나파 레더 카드 홀더.",
+        "official_description_paraphrase": "블랙 풀그레인 나파 가죽 위에 비세토스의 레터, 라우렐, 다이아몬드 모티프를 엠보싱한 ID 카드 홀더입니다. 탈부착 가능한 가죽 스트랩을 더해 목이나 어깨에 걸어 핸즈프리 액세서리로 활용할 수 있습니다.",
+        "key_concepts": [
+          "embossed Visetos",
+          "full-grain nappa leather",
+          "ID holder",
+          "lanyard",
+          "hands-free"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "full-grain nappa leather"
+        },
+        {
+          "part": "hardware",
+          "material": "dark metal"
+        },
+        {
+          "part": "lining",
+          "material": "fabric"
+        }
+      ],
+      "features": [
+        "탈부착 가죽 스트랩",
+        "엠보스드 비세토스",
+        "카드 슬롯",
+        "ID 창"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%82%A8%EC%84%B1/%EC%A7%80%EA%B0%91-%EB%A0%88%EB%8D%94%EC%86%8C%ED%92%88/%EC%B9%B4%EB%93%9C%EC%A7%80%EA%B0%91-%ED%82%A4%ED%99%80%EB%8D%94/%EC%97%A0%EB%B3%B4%EC%8A%A4%EB%93%9C-%EB%AA%A8%EB%85%B8%EA%B7%B8%EB%9E%A8-%EB%A0%88%EB%8D%94-%EB%9E%9C%EC%95%BC%EB%93%9C-id-%EC%B9%B4%EB%93%9C-%EC%A7%80%EA%B0%91/MXZGATA02BK001.html"
+      },
+      "dimensions": {
+        "text": "약 1 x 7 x 12 cm",
+        "strap_drop": "47 cm"
+      }
+    },
+    {
+      "product_id": "WALLET_004",
+      "product_name": "비세토스 오리지널 카드 케이스 반지갑",
+      "category": {
+        "main": "wallet_small_leather_goods",
+        "sub": "bifold_wallet"
+      },
+      "style_number": "MXSFATA03BK001",
+      "color": "black",
+      "size": "S",
+      "description": {
+        "summary": "탈부착 가능한 카드 케이스가 포함된 비세토스 모노그램 코티드 캔버스 반지갑.",
+        "official_description_paraphrase": "MCM의 가죽 제품 헤리티지를 반영한 모노그램 반지갑으로, 비세토스 코티드 캔버스와 나파 가죽을 조합했습니다. 내부 카드 케이스를 분리할 수 있어 필요에 따라 더 미니멀한 형태로 사용할 수 있습니다.",
+        "key_concepts": [
+          "MCM leather heritage",
+          "Visetos",
+          "bifold",
+          "detachable card case",
+          "minimal carry"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "trim",
+          "material": "nappa leather"
+        },
+        {
+          "part": "lining",
+          "material": "fabric"
+        }
+      ],
+      "features": [
+        "지폐 슬리브",
+        "탈부착 카드 케이스",
+        "나파 가죽 트림"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%82%A8%EC%84%B1/%EC%A7%80%EA%B0%91-%EB%A0%88%EB%8D%94%EC%86%8C%ED%92%88/%EB%B0%98%EC%A7%80%EA%B0%91-%EB%A8%B8%EB%8B%88%ED%81%B4%EB%A6%BD/%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%B9%B4%EB%93%9C-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%B0%98%EC%A7%80%EA%B0%91/MXSFATA03BK001.html"
+      },
+      "dimensions": {
+        "text": "약 2 x 12 x 9 cm"
+      }
+    },
+    {
+      "product_id": "CLOTH_001",
+      "product_name": "남성용 MCM 에센셜 로고 티셔츠",
+      "category": {
+        "main": "ready_to_wear",
+        "sub": "t_shirt"
+      },
+      "style_number": "MHTBABC01BK00S",
+      "color": "black",
+      "size": "S",
+      "description": {
+        "summary": "로고 자수와 퍼프 프린트가 더해진 오가닉 코튼 저지 티셔츠.",
+        "official_description_paraphrase": "MCM의 헤리티지를 절제된 방식으로 표현한 에센셜 티셔츠입니다. 앞면 자수와 뒷면 퍼프 프린트로 MCM 레터 로고를 강조하고, 환경 부담을 줄이기 위해 인증된 오가닉 코튼을 사용한 것이 특징입니다.",
+        "key_concepts": [
+          "MCM essentials",
+          "logo embroidery",
+          "puff print",
+          "organic cotton",
+          "sustainability"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Control Union-certified organic cotton",
+          "percentage": 100
+        }
+      ],
+      "features": [
+        "가슴 MCM 자수 로고",
+        "뒷면 퍼프 프린트",
+        "레귤러 핏"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "Hand wash only. Do not bleach, dry clean, or tumble dry. Cool iron inside out.",
+        "structured": {
+          "washing": [
+            "손세탁만"
+          ],
+          "avoid": [
+            "표백",
+            "드라이클리닝",
+            "건조기"
+          ],
+          "ironing": [
+            "뒤집어서 낮은 온도로 다림질"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%82%A8%EC%84%B1%EC%9A%A9-mcm-%EC%97%90%EC%84%BC%EC%85%9C-%EB%A1%9C%EA%B3%A0-%ED%8B%B0%EC%85%94%EC%B8%A0-/MHTBABC01BK00S.html"
+      }
+    },
+    {
+      "product_id": "CLOTH_002",
+      "product_name": "에센셜 로고 테리 지퍼 후디",
+      "category": {
+        "main": "ready_to_wear",
+        "sub": "hoodie"
+      },
+      "style_number": "MFJESBC01VD00L",
+      "color": "dark navy",
+      "size": "L",
+      "description": {
+        "summary": "라우렐 로고 터프트 패치가 돋보이는 여성용 크롭 테리 지퍼 후디.",
+        "official_description_paraphrase": "라우렐 엠블럼을 터프트 패치 자수로 강조한 여성용 크롭 후디입니다. 어깨와 소매의 대비되는 니트 밴드가 스포티한 인상을 더하며, 테리 소재의 편안한 착용감과 로고 중심의 디자인을 결합합니다.",
+        "key_concepts": [
+          "Laurel emblem",
+          "cropped hoodie",
+          "terry",
+          "contrast bands",
+          "sporty"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "polyester",
+          "percentage": 56
+        },
+        {
+          "part": "body",
+          "material": "cotton",
+          "percentage": 44
+        }
+      ],
+      "features": [
+        "후드",
+        "전면 지퍼",
+        "터프트 패치 자수",
+        "전면 포켓",
+        "콘트라스트 밴드"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "손세탁 또는 드라이클리닝. 표백 및 건조기 사용 금지. 천을 대고 다림질.",
+        "structured": {
+          "washing": [
+            "손세탁 또는 드라이클리닝"
+          ],
+          "avoid": [
+            "표백",
+            "건조기"
+          ],
+          "ironing": [
+            "천을 대고 다림질"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%90%EC%84%BC%EC%85%9C-%EB%A1%9C%EA%B3%A0-%ED%85%8C%EB%A6%AC-%EC%A7%80%ED%8D%BC-%ED%9B%84%EB%94%94/MFJESBC01VD00L.html"
+      }
+    },
+    {
+      "product_id": "CLOTH_003",
+      "product_name": "에센셜 로고 폰테 트랙 팬츠",
+      "category": {
+        "main": "ready_to_wear",
+        "sub": "track_pants"
+      },
+      "style_number": "MHPGSBC01BK00S",
+      "color": "black",
+      "size": "S",
+      "description": {
+        "summary": "라우렐 자수와 MCM 로고 모티프가 돋보이는 유니섹스 오버사이즈 폰테 트랙 팬츠.",
+        "official_description_paraphrase": "클래식한 애슬레저 트랙 팬츠를 MCM의 로고 언어로 재해석한 제품입니다. 라우렐 자수와 밑단 로고 모티프, 바이에른 다이아몬드에서 영감을 받은 뒷주머니 디테일을 더해 오버사이즈 실루엣을 완성했습니다.",
+        "key_concepts": [
+          "athleisure",
+          "Laurel embroidery",
+          "Bavarian diamond",
+          "oversized fit",
+          "matching set"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "polyester",
+          "percentage": 51
+        },
+        {
+          "part": "body",
+          "material": "cotton",
+          "percentage": 43
+        },
+        {
+          "part": "body",
+          "material": "spandex",
+          "percentage": 6
+        }
+      ],
+      "features": [
+        "라우렐 자수",
+        "조절 스트링 허리",
+        "사이드 포켓",
+        "다이아몬드 모티프 포켓"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "손세탁 또는 드라이클리닝이 가능합니다. 표백제 사용 및 건조기 사용은 피해주세요.",
+        "structured": {
+          "washing": [
+            "손세탁 또는 드라이클리닝"
+          ],
+          "avoid": [
+            "표백제",
+            "건조기"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%90%EC%84%BC%EC%85%9C-%EB%A1%9C%EA%B3%A0-%ED%8F%B0%ED%85%8C-%ED%8A%B8%EB%9E%99-%ED%8C%AC%EC%B8%A0/MHPGSBC01BK00S.html"
+      }
+    },
+    {
+      "product_id": "CLOTH_004",
+      "product_name": "에센셜 로고 폰테 트랙 재킷",
+      "category": {
+        "main": "ready_to_wear",
+        "sub": "track_jacket"
+      },
+      "style_number": "MHJGSBC01GK00S",
+      "color": "khaki",
+      "size": "S",
+      "description": {
+        "summary": "라우렐 자수와 대비 스트라이프, MCM 로고 모티프가 어우러진 유니섹스 폰테 트랙 재킷.",
+        "official_description_paraphrase": "애슬레틱 트랙 재킷을 현대적으로 재해석한 유니섹스 제품입니다. 가슴의 톤온톤 라우렐 자수, 소매의 MCM 로고 모티프, 대비 스트라이프와 입체적인 리브 니트 트리밍으로 오버사이즈 실루엣을 강조합니다.",
+        "key_concepts": [
+          "athletic reinterpretation",
+          "Laurel embroidery",
+          "MCM motif",
+          "contrast stripes",
+          "oversized fit"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "polyester",
+          "percentage": 51
+        },
+        {
+          "part": "body",
+          "material": "cotton",
+          "percentage": 43
+        },
+        {
+          "part": "body",
+          "material": "spandex",
+          "percentage": 6
+        }
+      ],
+      "features": [
+        "라우렐 자수",
+        "지퍼 클로저",
+        "스트라이프 디테일",
+        "리브 니트 트림",
+        "오버사이즈 핏"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "손세탁 또는 드라이클리닝이 가능합니다. 표백제 사용 및 기계 건조는 피하십시오.",
+        "structured": {
+          "washing": [
+            "손세탁 또는 드라이클리닝"
+          ],
+          "avoid": [
+            "표백제",
+            "기계 건조"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%90%EC%84%BC%EC%85%9C-%EB%A1%9C%EA%B3%A0-%ED%8F%B0%ED%85%8C-%ED%8A%B8%EB%9E%99-%EC%9E%AC%ED%82%B7/MHJGSBC01GK00S.html"
+      }
+    },
+    {
+      "product_id": "SHOE_001",
+      "product_name": "Federlite 라우렐 스웨이드 로우탑 스니커즈",
+      "category": {
+        "main": "shoes",
+        "sub": "sneakers"
+      },
+      "style_number": "MESFAAP01C9038",
+      "color": "mocha bisque suede",
+      "size": "38 IT / 여성",
+      "description": {
+        "summary": "프리미엄 이탈리안 스웨이드의 라우렐 엠보싱 로우탑 스니커즈.",
+        "official_description_paraphrase": "프리미엄 이탈리안 스웨이드로 제작한 경량 로우탑 스니커즈입니다. 입체적인 라우렐 엠블럼을 엠보싱으로 표현하고, 다이컷 EVA 미드솔과 탈착 가능한 OrthoLite® 인솔을 적용해 쿠셔닝과 안정적인 착화감을 높였습니다.",
+        "key_concepts": [
+          "Italian suede",
+          "Laurel embossing",
+          "Federlite",
+          "EVA midsole",
+          "OrthoLite"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "upper",
+          "material": "suede leather",
+          "percentage": 100
+        },
+        {
+          "part": "outsole",
+          "material": "rubber"
+        },
+        {
+          "part": "lining",
+          "material": "mesh"
+        }
+      ],
+      "features": [
+        "OrthoLite® 인솔",
+        "러버 아웃솔",
+        "바바리안 다이아몬드 메탈 아일렛"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "젖었을 경우 즉시 부드러운 마른 천으로 두드려 수분을 흡수. 가벼운 얼룩은 가죽 클리너를 부드러운 천에 묻혀 닦음. 습기와 이염에 주의.",
+        "structured": {
+          "water": [
+            "젖으면 즉시 마른 천으로 두드려 흡수"
+          ],
+          "cleaning": [
+            "가죽 클리너를 부드러운 천에 묻혀 닦기"
+          ],
+          "avoid": [
+            "물/비 등 습기"
+          ],
+          "precautions": [
+            "의류 이염 주의"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/federlite--%EB%9D%BC%EC%9A%B0%EB%A0%90-%EC%8A%A4%EC%9B%A8%EC%9D%B4%EB%93%9C-%EB%A1%9C%EC%9A%B0%ED%83%91-%EC%8A%A4%EB%8B%88%EC%BB%A4%EC%A6%88/MESFAAP01C9038.html"
+      }
+    },
+    {
+      "product_id": "SHOE_002",
+      "product_name": "Federlite 퀼팅 가죽 로우탑 슬립온 스니커즈",
+      "category": {
+        "main": "shoes",
+        "sub": "slip_on_sneakers"
+      },
+      "style_number": "MESGSAP02BK039",
+      "color": "black",
+      "size": "39 IT / 여성",
+      "description": {
+        "summary": "라우렐 퀼팅과 MCM 로고 모티프가 더해진 풀그레인 레더 슬립온.",
+        "official_description_paraphrase": "한국 문화와 MCM 헤리티지를 함께 해석한 풀그레인 레더 슬립온입니다. 태권도 도복에서 영감을 받은 대비 컬러와 토 부분의 라우렐 퀼팅, 로고 및 바바리안 다이아몬드 디테일을 통해 브랜드 아이덴티티를 표현합니다.",
+        "key_concepts": [
+          "Korean culture",
+          "Taekwondo inspiration",
+          "full-grain leather",
+          "Laurel quilting",
+          "MCM heritage"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "upper",
+          "material": "natural full-grain leather"
+        },
+        {
+          "part": "outsole",
+          "material": "Federlite EVA rubber"
+        },
+        {
+          "part": "lining",
+          "material": "mesh with faux leather trim"
+        }
+      ],
+      "features": [
+        "라우렐 퀼팅",
+        "바바리안 다이아몬드 패치",
+        "다이아몬드 메탈 아일렛"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "직사광선을 피하고 더스트백에 보관. 부드러운 천으로 먼지/유분 제거. 액체는 즉시 닦고 비나 땀 등 습기를 피함. 짙은 의류의 이염에 주의.",
+        "structured": {
+          "storage": [
+            "더스트백 보관"
+          ],
+          "cleaning": [
+            "부드러운 천으로 먼지/유분 제거"
+          ],
+          "water": [
+            "액체 즉시 닦기"
+          ],
+          "avoid": [
+            "직사광선",
+            "비/땀 등 습기"
+          ],
+          "precautions": [
+            "짙은 의류 이염 주의"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/federlite-%ED%80%BC%ED%8C%85-%EA%B0%80%EC%A3%BD-%EB%A1%9C%EC%9A%B0%ED%83%91-%EC%8A%AC%EB%A6%BD%EC%98%A8-%EC%8A%A4%EB%8B%88%EC%BB%A4%EC%A6%88/MESGSAP02BK039.html"
+      }
+    },
+    {
+      "product_id": "SHOE_003",
+      "product_name": "비세토스 슬라이드 샌들",
+      "category": {
+        "main": "shoes",
+        "sub": "slides"
+      },
+      "style_number": "MEXESMM05CO037",
+      "color": "cognac",
+      "size": "37 IT / 여성",
+      "description": {
+        "summary": "비세토스 모노그램 캔버스 어퍼와 3D 라우렐 EVA 아웃솔의 슬라이드.",
+        "official_description_paraphrase": "비세토스 모노그램 캔버스 어퍼와 편안한 질감의 풋베드를 조합한 슬라이드입니다. 특수 몰딩된 EVA 아웃솔을 3D 라우렐 모티프가 감싸며 MCM의 시그니처 요소를 캐주얼한 슈즈 형태로 표현합니다.",
+        "key_concepts": [
+          "Visetos",
+          "slide sandal",
+          "3D Laurel",
+          "EVA outsole",
+          "casual"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "upper",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "outsole",
+          "material": "EVA"
+        }
+      ],
+      "features": [
+        "로고 엠보스드 풋베드",
+        "3D 라우렐 아웃솔"
+      ],
+      "country_of_origin": "이탈리아",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "부드러운 브러시로 밑창을 세척합니다. 어퍼는 살짝 물에 적신 부드러운 코튼 천을 사용합니다.",
+        "structured": {
+          "cleaning": [
+            "밑창은 부드러운 브러시",
+            "어퍼는 살짝 젖은 부드러운 코튼 천"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%83%8C%EB%93%A4/MEXESMM05CO037.html"
+      }
+    },
+    {
+      "product_id": "SHOE_004",
+      "product_name": "Federlite 라우렐 메탈릭 레더 로우탑 스니커즈",
+      "category": {
+        "main": "shoes",
+        "sub": "sneakers"
+      },
+      "style_number": "MESFAAP02SV039",
+      "color": "silver",
+      "size": "39 IT / 여성",
+      "description": {
+        "summary": "메탈릭 레더와 라우렐 엠보싱 모티프의 경량 로우탑 스니커즈.",
+        "official_description_paraphrase": "실버 톤 메탈릭 레더로 제작된 Federlite 로우탑 스니커즈입니다. 입체적인 라우렐 엠블럼과 경량 설계를 결합했고, 다이컷 EVA 미드솔과 탈착 가능한 OrthoLite® 인솔을 통해 편안한 쿠셔닝을 제공합니다.",
+        "key_concepts": [
+          "metallic leather",
+          "Federlite",
+          "Laurel emblem",
+          "EVA midsole",
+          "OrthoLite"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "upper",
+          "material": "metallic leather"
+        },
+        {
+          "part": "midsole",
+          "material": "die-cut EVA"
+        },
+        {
+          "part": "outsole",
+          "material": "Federlite rubber"
+        },
+        {
+          "part": "lining",
+          "material": "polyester mesh"
+        }
+      ],
+      "features": [
+        "OrthoLite® 인솔",
+        "바바리안 다이아몬드 메탈 아일렛"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "직사광선, 열, 습기를 피함. 아웃솔은 부드러운 솔로 청소하고 갑피는 약간 젖은 부드러운 면 천으로 닦음. 거친 재질로 문지르지 않음. 젖으면 인솔을 분리해 자연 건조.",
+        "structured": {
+          "storage": [
+            "직사광선/열/습기 회피"
+          ],
+          "cleaning": [
+            "아웃솔은 부드러운 솔",
+            "갑피는 약간 젖은 면 천"
+          ],
+          "water": [
+            "젖으면 인솔 분리 후 자연 건조"
+          ],
+          "avoid": [
+            "거친 재질로 문지르기"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/federlite--%EB%9D%BC%EC%9A%B0%EB%A0%90-%EB%A9%94%ED%83%88%EB%A6%AD-%EB%A0%88%EB%8D%94-%EB%A1%9C%EC%9A%B0%ED%83%91-%EC%8A%A4%EB%8B%88%EC%BB%A4%EC%A6%88/MESFAAP02SV039.html"
+      }
+    },
+    {
+      "product_id": "ACC_001",
+      "product_name": "비세토스 Apple Watch 밴드",
+      "category": {
+        "main": "accessory",
+        "sub": "tech_watch_band"
+      },
+      "style_number": "MXZGSTT07BK001",
+      "color": "black",
+      "size": "38/40/41mm",
+      "description": {
+        "summary": "비세토스 모노그램 캔버스 바디와 천연 나파 가죽 안감/트림의 Apple Watch 밴드.",
+        "official_description_paraphrase": "시그니처 비세토스 모노그램 캔버스와 부드러운 나파 가죽 안감을 조합한 Apple Watch 스트랩입니다. 편안한 착용감과 정교한 마감에 초점을 두고, 바이에른 다이아몬드에서 영감을 받은 빈티지 실버 톤 메탈 버클로 완성했습니다.",
+        "key_concepts": [
+          "Visetos",
+          "Apple Watch band",
+          "nappa leather lining",
+          "Bavarian diamond buckle",
+          "craftsmanship"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Visetos monogram canvas"
+        },
+        {
+          "part": "inner/trim",
+          "material": "natural nappa leather"
+        },
+        {
+          "part": "hardware",
+          "material": "antique silver-tone cobalt metal"
+        }
+      ],
+      "features": [
+        "Apple Watch SE/10/9 시리즈 호환",
+        "메탈 버클"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC/%ED%85%8C%ED%81%AC-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC/%EB%B9%84%EC%84%B8%ED%86%A0%EC%8A%A4-apple-watch-%EB%B0%B4%EB%93%9C-/MXZGSTT07BK001.html"
+      },
+      "dimensions": {
+        "text": "약 0 x 2 x 9 cm",
+        "strap_length": "115 mm"
+      }
+    },
+    {
+      "product_id": "ACC_002",
+      "product_name": "엠보스드 모노그램 레더 Apple Watch 밴드",
+      "category": {
+        "main": "accessory",
+        "sub": "tech_watch_band"
+      },
+      "style_number": "MXZGSTT06BK001",
+      "color": "black",
+      "size": "42/44/45/46/49mm",
+      "description": {
+        "summary": "엠보싱 비세토스 모티프가 더해진 천연 풀그레인 레더 Apple Watch 밴드.",
+        "official_description_paraphrase": "천연 풀그레인 가죽 위에 MCM의 레터링, 라우렐, 다이아몬드 모티프를 정교하게 엠보싱한 Apple Watch 스트랩입니다. 부드러운 밴드와 바이에른 다이아몬드에서 영감을 받은 메탈 버클을 조합해 장인정신과 착용 편의성을 함께 강조합니다.",
+        "key_concepts": [
+          "full-grain leather",
+          "embossed Visetos motifs",
+          "Apple Watch band",
+          "Bavarian diamond buckle"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "natural full-grain leather"
+        },
+        {
+          "part": "hardware",
+          "material": "antique silver-tone cobalt metal"
+        }
+      ],
+      "features": [
+        "Apple Watch 10/9 시리즈 호환",
+        "메탈 버클"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC/%ED%85%8C%ED%81%AC-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC/%EC%97%A0%EB%B3%B4%EC%8A%A4%EB%93%9C-%EB%AA%A8%EB%85%B8%EA%B7%B8%EB%9E%A8-%EB%A0%88%EB%8D%94-apple-watch-%EB%B0%B4%EB%93%9C-/MXZGSTT06BK001.html"
+      },
+      "dimensions": {
+        "text": "약 0 x 2 x 9 cm",
+        "strap_length": "115 mm"
+      }
+    },
+    {
+      "product_id": "ACC_003",
+      "product_name": "ECONYL®과 가죽 클래식 캡",
+      "category": {
+        "main": "accessory",
+        "sub": "cap"
+      },
+      "style_number": "MECFAMM01IG001",
+      "color": "beige",
+      "size": "free size",
+      "description": {
+        "summary": "ECONYL® 재생 나일론 바디와 비세토스 프린트 가죽 챙/패치가 적용된 클래식 캡.",
+        "official_description_paraphrase": "폐어망 등에서 재생한 ECONYL® 나일론으로 제작한 클래식 캡입니다. 비세토스 모노그램 프린트 가죽 챙과 로고 가죽 패치, 바이에른 다이아몬드에서 영감을 받은 메탈 버클 스트랩을 더해 MCM의 클래식 코드를 지속가능한 소재로 표현합니다.",
+        "key_concepts": [
+          "ECONYL",
+          "recycled nylon",
+          "Visetos leather brim",
+          "Bavarian diamond buckle",
+          "sustainability"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "ECONYL® recycled nylon"
+        },
+        {
+          "part": "brim",
+          "material": "leather with Visetos monogram print"
+        }
+      ],
+      "features": [
+        "둘레 58cm",
+        "로고 엠보싱 가죽 패치",
+        "조절 스트랩"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "세탁기 혹은 건조기를 사용하지 마세요. 가죽 부분은 더스트백 보관, 직사광선/습기 회피, 비누/솔벤트 사용 금지 등 MCM 가죽 관리 지침 적용.",
+        "structured": {
+          "washing": [
+            "세탁기 사용 금지"
+          ],
+          "drying": [
+            "건조기 사용 금지"
+          ],
+          "storage": [
+            "더스트백",
+            "직사광선 회피"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "습기"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EB%82%A8%EC%84%B1/%ED%8C%A8%EC%85%98%EC%86%8C%ED%92%88/%EB%AA%A8%EC%9E%90/econyl%C2%AE%EA%B3%BC-%EA%B0%80%EC%A3%BD-%ED%81%B4%EB%9E%98%EC%8B%9D-%EC%BA%A1/MECFAMM01IG001.html"
+      },
+      "sustainability": "ECONYL® recycled nylon"
+    },
+    {
+      "product_id": "ACC_004",
+      "product_name": "Diamant 3D 카프 레더 참",
+      "category": {
+        "main": "accessory",
+        "sub": "bag_charm"
+      },
+      "style_number": "MXZFAAK03Y0001",
+      "color": "old gold",
+      "size": "free size",
+      "description": {
+        "summary": "아이코닉한 Diamant 3D 백을 컴팩트한 액세서리로 재해석한 스페인산 송아지 가죽 백 참.",
+        "official_description_paraphrase": "MCM의 아이코닉한 Diamant 3D 백을 손에 들 수 있는 소형 액세서리로 축소해 재해석한 참입니다. 스페인산 송아지 가죽으로 제작하고 골드 톤 체인과 작은 지퍼 수납공간을 더해 원형 디자인의 우아함과 실용성을 유지했습니다.",
+        "key_concepts": [
+          "Diamant 3D",
+          "Spanish calf leather",
+          "bag charm",
+          "gold-tone chain",
+          "miniature reinterpretation"
+        ],
+        "source_status": "paraphrased_from_MCM_KR_official_product_details"
+      },
+      "materials": [
+        {
+          "part": "body",
+          "material": "Spanish calf leather"
+        },
+        {
+          "part": "hardware",
+          "material": "24K gold-plated metal"
+        },
+        {
+          "part": "lining",
+          "material": "cotton twill"
+        }
+      ],
+      "features": [
+        "탈부착 체인 스트랩",
+        "양방향 지퍼",
+        "작은 지퍼 수납공간"
+      ],
+      "country_of_origin": "대한민국",
+      "care": {
+        "source_status": "provided",
+        "raw_official_care": "제공된 더스트 백에 넣어 직사광선이나 밝은 빛을 피해 서늘하고 건조한 곳에 보관. 가죽 제품은 젖거나 얼룩이 생기지 않도록 주의. 표면이 젖었을 경우 보풀이 없고 밝은색의 흡수성 천으로 물기를 닦음. 비누 또는 솔벤트를 사용하지 않음. 거친 표면에 긁히거나 마찰되지 않도록 주의.",
+        "structured": {
+          "storage": [
+            "더스트 백 사용",
+            "직사광선/밝은 빛 회피",
+            "서늘하고 건조한 곳에 보관"
+          ],
+          "water": [
+            "젖었을 경우 밝은색 흡수성 천으로 물기를 닦음"
+          ],
+          "avoid": [
+            "비누",
+            "솔벤트",
+            "거친 표면과 마찰",
+            "습기",
+            "직사광선"
+          ]
+        }
+      },
+      "source": {
+        "site": "MCM KR official",
+        "url": "https://kr.mcmworldwide.com/ko_KR/%EC%97%AC%EC%84%B1/%ED%8C%A8%EC%85%98%EC%86%8C%ED%92%88/%EB%AA%A8%EB%91%90%EB%B3%B4%EA%B8%B0/diamant-3d-%EC%B9%B4%ED%94%84-%EB%A0%88%EB%8D%94-%EC%B0%B8/MXZFAAK03Y0001.html"
+      },
+      "dimensions": {
+        "text": "약 7 x 13 x 9 cm"
+      }
+    }
+  ],
+  "description_policy": "Detailed product-description narratives are paraphrased from MCM Korea official product-detail pages; short product facts, materials, care, dimensions and style identifiers remain structured separately."
+}
